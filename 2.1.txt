@@ -1,0 +1,7 @@
+N = 15
+M = 1
+K = 0.5
+F = 65
+max_proccesses = (15 - 1)/0.5 = 28
+average_time = (100 - 65)% = 0.35
+average_cpu_load = 0.35/(0.35 + 1) = 0.26
